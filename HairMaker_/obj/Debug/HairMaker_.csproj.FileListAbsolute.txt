@@ -1,0 +1,14 @@
+D:\Многопоточность\HairMaker_\HairMaker_\bin\Debug\HairMaker_.exe.config
+D:\Многопоточность\HairMaker_\HairMaker_\bin\Debug\HairMaker_.exe
+D:\Многопоточность\HairMaker_\HairMaker_\bin\Debug\HairMaker_.pdb
+D:\Многопоточность\HairMaker_\HairMaker_\obj\Debug\HairMaker_.csprojAssemblyReference.cache
+D:\Многопоточность\HairMaker_\HairMaker_\obj\Debug\HairMaker_.csproj.CoreCompileInputs.cache
+D:\Многопоточность\HairMaker_\HairMaker_\obj\Debug\HairMaker_.exe
+D:\Многопоточность\HairMaker_\HairMaker_\obj\Debug\HairMaker_.pdb
+C:\Users\NZubkevych\Downloads\HairMaker\HairMaker_\HairMaker_\bin\Debug\HairMaker_.exe.config
+C:\Users\NZubkevych\Downloads\HairMaker\HairMaker_\HairMaker_\bin\Debug\HairMaker_.exe
+C:\Users\NZubkevych\Downloads\HairMaker\HairMaker_\HairMaker_\bin\Debug\HairMaker_.pdb
+C:\Users\NZubkevych\Downloads\HairMaker\HairMaker_\HairMaker_\obj\Debug\HairMaker_.csprojAssemblyReference.cache
+C:\Users\NZubkevych\Downloads\HairMaker\HairMaker_\HairMaker_\obj\Debug\HairMaker_.csproj.CoreCompileInputs.cache
+C:\Users\NZubkevych\Downloads\HairMaker\HairMaker_\HairMaker_\obj\Debug\HairMaker_.exe
+C:\Users\NZubkevych\Downloads\HairMaker\HairMaker_\HairMaker_\obj\Debug\HairMaker_.pdb
